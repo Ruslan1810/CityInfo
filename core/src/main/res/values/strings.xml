@@ -1,0 +1,10 @@
+<resources>
+    <string name="error_title">Что-то пошло не так</string>
+    <string name="error_no_internet_title">Нет соединения с интернетом</string>
+    <string name="error_no_internet_message">Проверьте подключение к сети и попробуйте снова</string>
+    <string name="error_timeout_title">Сервер не отвечает</string>
+    <string name="error_timeout_message">Сервер не отвечает, попробуйте позже</string>
+    <string name="error_server_title">Ошибка на сервере</string>
+    <string name="error_server_message">Мы уже работаем над этой проблемой</string>
+    <string name="error_load_data">Ошибка загрузки данных</string>
+</resources>

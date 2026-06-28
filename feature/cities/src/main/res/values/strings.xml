@@ -1,0 +1,11 @@
+<resources>
+    <string name="cities_title">Список городов</string>
+    <string name="cities_search_hint">Введите название города</string>
+    <string name="cities_empty_hint">Введите запрос для поиска</string>
+    <string name="cities_empty_result">Ничего не найдено</string>
+    <string name="cities_load_more_error">Не удалось загрузить следующую страницу</string>
+    <string name="retry">Повторить</string>
+    <string name="search">Поиск</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+</resources>
